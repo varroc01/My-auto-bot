@@ -47,9 +47,9 @@ logger = logging.getLogger(__name__)
 # ============================
 # BOT TOKENS – BILKUL LEFT MARGIN (0 spaces)
 # ============================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8852196683:AAHePWAiCLmf20PndNUcMicF-ZmJ-QPd1Fw")
-OWNER_BOT_TOKEN = os.getenv("OWNER_BOT_TOKEN", "8897690279:AAFTkWacvEfS7FBXezGITThvf6SgSZiL5z4")
-OWNER_CHAT_ID = int(os.getenv("OWNER_CHAT_ID", "-1004232879040"))
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+OWNER_BOT_TOKEN = os.getenv("OWNER_BOT_TOKEN")
+OWNER_CHAT_ID = int(os.getenv("OWNER_CHAT_ID"))
 # ============================
 # BOT NAME
 # ============================
