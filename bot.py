@@ -53,13 +53,13 @@ OWNER_CHAT_ID = int(os.getenv("OWNER_CHAT_ID"))
 # ============================
 # BOT NAME
 # ============================
-BOT_NAME = "<b>LINUX AUTO BOT</b>"
+BOT_NAME = "<b>LINUXBHAI AUTO BOT</b>"
 
 # ============================
 # FORCE JOIN CHANNEL
 # ============================
-CHANNEL_USERNAME = "@LINUXBHAIAUTO"
-CHANNEL_URL = "https://t.me/linuxbhaiauto"
+CHANNEL_USERNAME = "@linuxbhai001"
+CHANNEL_URL = "https://t.me/linuxbhai001"
 
 # ============================
 # USER CONFIG – PERSISTENT VOLUME FIX
